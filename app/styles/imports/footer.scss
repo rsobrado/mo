@@ -1,0 +1,33 @@
+//  *******  footer  ******* 
+.footer{
+	background-color: black;
+	background: url(../images/footer-bg.jpg) no-repeat;
+	background-size: cover;
+	color: white;
+	height: 390px;
+	display: table;
+	width: 100%;
+	padding: 60px 0; 
+	&.container {
+	    margin-top: 0;
+	}
+
+	> div{
+		display: table-cell;
+		vertical-align: middle;
+		float: initial;
+	}
+	h2{
+	    font-family: 'KGLuckoftheIrish';
+	    font-size: 4.5em;
+	    position: relative;
+	    &:before {
+	        height: 6px;
+	        content: "";
+	        background-color: $color-green;
+	        position: absolute;
+	        width: 70%;
+	        bottom: -25px;
+	    }
+	}
+}

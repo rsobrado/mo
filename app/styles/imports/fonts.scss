@@ -1,0 +1,49 @@
+
+//  *******  custom fonts  ******* 
+@font-face {
+  font-family: 'Gotham-Book';
+  src: 	url('../fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),  
+  		url('../fonts/Gotham-Book.otf')  format('opentype'),
+	    url('../fonts/Gotham-Book.woff') format('woff'), 
+	    url('../fonts/Gotham-Book.ttf')  format('truetype'), 
+	    url('../fonts/Gotham-Book.svg#Gotham-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBold';
+  src: 	url('../fonts/GothamBold.eot?#iefix') format('embedded-opentype'),  
+  		url('../fonts/GothamBold.woff') format('woff'), 
+  		url('../fonts/GothamBold.ttf')  format('truetype'), 
+  		url('../fonts/GothamBold.svg#GothamBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TrashHand';
+  src: 	url('../fonts/TrashHand.eot?#iefix') format('embedded-opentype'),
+  		url('../fonts/TrashHand.woff') format('woff'),
+  		url('../fonts/TrashHand.ttf')  format('truetype'),
+  		url('../fonts/TrashHand.svg#TrashHand') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KGLuckoftheIrish';
+  src: url('../fonts/KGLuckoftheIrish.eot?#iefix') format('embedded-opentype'),
+	  url('../fonts/KGLuckoftheIrish.woff') format('woff'),
+	  url('../fonts/KGLuckoftheIrish.ttf')  format('truetype'),
+	  url('../fonts/KGLuckoftheIrish.svg#KGLuckoftheIrish') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Japan';
+  src: 	url('../fonts/Japan.eot?#iefix') format('embedded-opentype'),
+  		url('../fonts/Japan.woff') format('woff'),
+  		url('../fonts/Japan.ttf')  format('truetype'),
+  		url('../fonts/Japan.svg#Japan') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
