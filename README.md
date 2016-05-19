@@ -1,4 +1,4 @@
 ## mo
 
-##### Demo: [rsobrado.github.com/js-intertect-test/](https://rsobrado.github.com/js-intertect-test/). 
+##### Demo: [rsobrado.github.com/mo/](https://rsobrado.github.com/mo/). 
 
