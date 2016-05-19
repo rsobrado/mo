@@ -1,4 +1,4 @@
 ## mo
 
-##### Demo: [rsobrado.github.com/mo](https://rsobrado.github.com/mo). 
+##### Demo: [rsobrado.github.com/mo](https://rsobrado.github.com/mo)
 
